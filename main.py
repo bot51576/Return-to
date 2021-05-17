@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 from sklearn import linear_model
 import statsmodels.api as sm
-import matplotlib.pyplot as plt
+
 st.write('''
 	# 重回帰分析アプリ'''
 	)
